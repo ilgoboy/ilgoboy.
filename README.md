@@ -1,2 +1,2 @@
-# ilgoboy.
-My personal repository.
+# Ilias Rogiers
+I'm a physics and astronomy student @ugent.
